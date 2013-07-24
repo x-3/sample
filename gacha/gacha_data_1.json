@@ -1,0 +1,24 @@
+{
+"rate": {
+  "1": {"type": "sr", "rate": 0.05},
+  "2": {"type": "sr", "rate": 0.05},
+  "3": {"type": "sr", "rate": 0.05},
+  "4": {"type": "sr", "rate": 0.05},
+  "5": {"type": "r", "rate": 0.1},
+  "6": {"type": "r", "rate": 0.1},
+  "7": {"type": "r", "rate": 0.1},
+  "8": {"type": "r", "rate": 0.1},
+  "9": {"type": "r", "rate": 0.1},
+  "10": {"type": "r", "rate": 0.1},
+  "11": {"type": "r", "rate": 0.1},
+  "12": {"type": "r", "rate": 0.1},
+  "13": {"type": "r", "rate": 0.1},
+  "14": {"type": "r", "rate": 0.1},
+  "15": {"type": "n", "rate": 3},
+  "16": {"type": "n", "rate": 3},
+  "17": {"type": "n", "rate": 3},
+  "18": {"type": "n", "rate": 3},
+  "19": {"type": "n", "rate": 3},
+  "20": {"type": "n", "rate": 3}
+}
+}
